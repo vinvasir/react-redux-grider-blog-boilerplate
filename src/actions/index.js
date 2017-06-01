@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const ROOT_URL = 'http://pv-rails-api-test.herokuapp.com/v1';
+const ROOT_URL = 'https://pv-rails-api-test.herokuapp.com/v1';
 const API_KEY = '?key=hbiggledyfewab';
 
 export const FETCH_POSTS = 'fetch_posts';
